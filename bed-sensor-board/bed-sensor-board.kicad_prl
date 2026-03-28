@@ -1,10 +1,30 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 7,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_netclasses": [
+      "Default"
+    ],
+    "hidden_nets": [
+      "",
+      "+5V",
+      "GND",
+      "+3V3",
+      "/Sensor_2",
+      "/Sensor_1",
+      "unconnected-(U101-GPIO20-Pad20)",
+      "unconnected-(U101-GPIO21-Pad21)",
+      "unconnected-(U101-GPIO9-Pad9)",
+      "unconnected-(U101-GPIO10-Pad10)",
+      "unconnected-(U101-GPIO4-Pad4)",
+      "unconnected-(U101-GPIO0-Pad0)",
+      "unconnected-(U101-GPIO5-Pad5)",
+      "unconnected-(U101-GPIO6-Pad6)",
+      "unconnected-(U101-GPIO8-Pad8)",
+      "unconnected-(U101-GPIO7-Pad7)",
+      "unconnected-(U101-GPIO1-Pad1)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -45,12 +65,11 @@
       "pads",
       "zones",
       "drc_warnings",
-      "drc_exclusions",
       "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -88,16 +107,16 @@
       9
     ],
     "col_widths": [
-      186,
-      171,
-      112,
-      79,
-      112,
-      112,
-      112,
-      83,
-      112,
-      112
+      233,
+      214,
+      140,
+      99,
+      140,
+      140,
+      140,
+      104,
+      140,
+      140
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

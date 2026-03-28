@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-DEVKITC-1-N8R2")(type "KiCad")(uri "D:/Github/PCB-LIBs/Symbols/ESP32-S3-DEVKITC-1-N8R2.kicad_sym")(options "")(descr ""))
+  (lib (name "fatcat")(type "KiCad")(uri "D:/Github/PCB-LIBs/Symbols/fatcat.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74AHCT125N")(type "KiCad")(uri "D:/Github/PCB-LIBs/Symbols/SN74AHCT125N.kicad_sym")(options "")(descr ""))
+  (lib (name "Thomas")(type "KiCad")(uri "D:/Github/PCB-LIBs/Symbols/Thomas.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C3_SUPERMINI_TH")(type "KiCad")(uri "D:/Github/PCB-LIBs/Symbols/ESP32-C3_SUPERMINI_TH.kicad_sym")(options "")(descr ""))
+  (lib (name "PE014F05")(type "KiCad")(uri "D:/Github/PCB-LIBs/Symbols/PE014F05.kicad_sym")(options "")(descr ""))
+)

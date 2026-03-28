@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Thomas")(type "KiCad")(uri "D:/Github/PCB-LIBs/Thomas.pretty")(options "")(descr ""))
+)
